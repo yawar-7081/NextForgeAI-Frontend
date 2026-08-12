@@ -383,7 +383,7 @@ export default function Home() {
                     className="rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 hover:scale-105 transition-all"
                   >
                     <a
-                      href="https://github.com/your-github"
+                      href="https://github.com/yawar-7081"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -400,7 +400,7 @@ export default function Home() {
                     className="rounded-xl border-white/10 hover:border-blue-500/40"
                   >
                     <a
-                      href="https://linkedin.com/in/your-linkedin"
+                      href="https://linkedin.com/in/yawar7081"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -415,7 +415,7 @@ export default function Home() {
                     variant="outline"
                     className="rounded-xl border-white/10 hover:border-purple-500/40 hover:bg-purple-500/10"
                   >
-                    <a href="mailto:your-email@example.com">
+                    <a href="mailto:yawar7081@gmail.com">
                       <Mail className="mr-2 h-4 w-4" />
                       Email
                     </a>
